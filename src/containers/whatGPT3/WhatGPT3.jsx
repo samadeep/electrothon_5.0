@@ -6,7 +6,7 @@ const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
       <Feature
-        title="What is Abhishek?"
+        title="ELectrothon 5.0"
         text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
       />
     </div>
@@ -14,20 +14,22 @@ const WhatGPT3 = () => (
       <h1 className="gradient__text">
         The possibilities are beyond your imagination
       </h1>
-      <p>Explore the Library</p>
+      <p>
+        Explore the <b> Problem Statements</b>{" "}
+      </p>
     </div>
     <div className="gpt3__whatgpt3-container">
       <Feature
-        title="Chatbots"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+        title="Ideathon"
+        text="Electrothon 5.0 encourages not only technical hacks, but also commercial concepts and research opportunities. This hackathon is a one-stop destination for fresh, creative concepts that can be developed into useful goods that can actually serve as the country's assets."
       />
       <Feature
-        title="Knowledgebase"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        title="Diversity and Inclusivity"
+        text="Diversity within nations, regions, faiths, and cultures honors the inclusion of less recognized communities."
       />
       <Feature
-        title="Education"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        title="Incubation"
+        text="Our partnering firms will have the opportunity to collaborate with the ideas that harbor the potential to become products."
       />
     </div>
   </div>
