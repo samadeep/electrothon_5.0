@@ -7,7 +7,11 @@ const WhatGPT3 = () => (
     <div className="gpt3__whatgpt3-feature">
       <Feature
         title="ELectrothon 5.0"
+<<<<<<< HEAD
         text="Electrothon is a student-run hackathon, under the aegis of the National Institute of Technology Hamirpur, India. An exceptional place for young and dedicated minds, a platform for organizations to meet a wide range of talented, and with over 1700+ registrations, Electrothon serves as a hub of ingenious ideas, innovation, entrepreneurship and technical skills."
+=======
+        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+>>>>>>> main
       />
     </div>
     <div className="gpt3__whatgpt3-heading">
